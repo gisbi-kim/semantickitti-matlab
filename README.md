@@ -1,9 +1,9 @@
 # semantickitti-matlab
-soem useful tools writeen in matlab for semantic kitti
+Some useful tools written in Matlab for SemanticKITTI
 
 
 ## How to use 
-- visualizer: showing both semantics and instances of data like below. 
+- directory *visualizer*: to show both semantics and instances of data like below. 
     - ![](docs/viz.gif)
     - a long example is in [the Youtube link](https://youtu.be/gNeEfPEyHuw). 
 
